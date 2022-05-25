@@ -14,5 +14,5 @@ number1 = 4
 number2 = 5
 multiply = multiply_numbers(number1, number2)
 
-print("sum of two numbers is: ",sum)
-print("multiplication of two numbers is: ",multiply)
+# print("sum of two numbers is: ",sum)
+# print("multiplication of two numbers is: ",multiply)

@@ -4,6 +4,7 @@ def find_average(marks):
     avg_marks = sum_of_marks / total_subject
     return avg_marks
 
+
 #calculate the grade and return it
 def compute_grade(average_marks):
     if average_marks >= 80:

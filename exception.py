@@ -1,7 +1,9 @@
+
+
 while(True):
     print("press q to quite")
     a = input("enter a number:")
-while(True):
+while(False):
     if a == 'q':
         break
     try:

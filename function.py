@@ -10,9 +10,12 @@ num1 = 5
 num2 = 6
 sum= add_numbers(num1,num2)
 
-number1 = 4
-number2 = 5
-multiply = multiply_numbers(number1, number2)
+num1 = int(input("enter first number"))
+num1 = int(input("enter sexond number"))
+
+multiply = (num1 + num2)
+
+multiply = multiply_numbers(num1, num2)
 
 print("sum of two numbers is: ",sum)
 print("multiplication of two numbers is: ",multiply)
